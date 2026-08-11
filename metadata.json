@@ -1,0 +1,6 @@
+{
+  "name": "KP Roofing - Online Booking & Estimate Landing Page",
+  "description": "Official booking landing page, instant roof estimate calculator, and 24/7 emergency service scheduler for KP Roofing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
